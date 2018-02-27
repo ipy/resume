@@ -9,7 +9,7 @@
 4 年以上开发经验，目前担任明道软件前端团队 Team Lead，团队规模 10 人左右。
 负责和参与过的项目包括明道 Web 端主站、Electron 桌面端应用、React Native 移动端应用等。
 
-“明道”是一款企业协作平台，包括即时聊天、动态更新、项目跟踪、文件管理和人事套件等功能模块。
+“[明道](https://www.mingdao.com)”是一款企业协作平台，包括即时聊天、动态更新、项目跟踪、文件管理和人事套件等功能模块。
 
 ## 工作经历
 * （2014~现在） 上海万企明道软件有限公司 · 研发经理
@@ -69,3 +69,9 @@
 * 推行代码风格规范，使用 eslint 等工具进行自动化的校验
 * 推动团队文化建设，进行周期性技术分享、Code Review
 
+## 相关链接
+* Blog [https://www.jianshu.com/u/08e91ec82bed](https://www.jianshu.com/u/08e91ec82bed)
+* Slides [https://slides.com/sinzou](https://slides.com/sinzou)
+* Github [https://github.com/ipy](https://github.com/ipy)
+* SegmentFault [https://segmentfault.com/u/sin](https://segmentfault.com/u/sin)
+* StackOverflow [https://stackoverflow.com/users/1289394/sin](https://stackoverflow.com/users/1289394/sin)
