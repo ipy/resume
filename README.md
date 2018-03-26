@@ -6,7 +6,7 @@
 * 📧 [job@zouxin.net](mailto:job@zouxin.net)
 
 ## 个人简介
-4 年以上开发经验，目前担任明道软件前端团队 Team Lead，团队规模 10 人左右。
+5 年工作经验，目前担任明道软件前端团队 Team Lead，团队规模 10 人左右。
 负责和参与过的项目包括明道 Web 端主站、Electron 桌面端应用、React Native 移动端应用等。
 
 “[明道](https://www.mingdao.com)”是一款企业协作平台，包括即时聊天、动态更新、项目跟踪、文件管理和人事套件等功能模块。
@@ -51,7 +51,7 @@
 * 积极尝试其他新技术，但同时也坚持单个项目整体技术栈的统一性。在项目中尝试过但最终没有应用于生产的技术有 CoffeeScript, Sass, Stylus 等
 
 ### 后端开发
-* 主要后端技术栈是 ASP.NET/ASP.NET Core/C#. 推进了主站项目从 WebForm 到 MVC 架构的演进，目前正在尝试拆分项目，采用 GRPC 进行微服务化。
+* 主要后端技术栈是 ASP.NET/ASP.NET Core/C#. 推进了主站项目从 WebForm 到 MVC 架构的演进，目前正在尝试拆分项目，采用 gRPC 进行微服务化。
 * 另有一些站点使用 Node.js, 如文档预览服务（基于 express.js）、移动网页版后端（基于 koa.js）等。
 * 此外还广泛涉猎其他其他 Web 后端语言，包括 Python、PHP、Java 等。
 
