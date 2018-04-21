@@ -69,6 +69,9 @@
 * 推行代码风格规范，使用 eslint 等工具进行自动化的校验
 * 推动团队文化建设，进行周期性技术分享、Code Review
 
+### 其他
+* 参与了《OKR工作法》翻译工作
+
 ## 相关链接
 * Blog [https://www.jianshu.com/u/08e91ec82bed](https://www.jianshu.com/u/08e91ec82bed)
 * Slides [https://slides.com/sinzou](https://slides.com/sinzou)
