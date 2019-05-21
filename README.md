@@ -2,79 +2,45 @@
 
 ## 联系信息
 * 🤓 邹昕 / 男 / 1991
-* 📱 [15721279995](tel:15721279995)
 * 📧 [job@zouxin.net](mailto:job@zouxin.net)
+<!-- * 📱 [](tel:) -->
 
 ## 个人简介
-5 年工作经验，目前担任明道软件前端团队 Team Lead，团队规模 10 人左右。
-负责和参与过的项目包括明道 Web 端主站、Electron 桌面端应用、React Native 移动端应用等。
-
-“[明道](https://www.mingdao.com)”是一款企业协作平台，包括即时聊天、动态更新、项目跟踪、文件管理和人事套件等功能模块。
+7 年工作经验，5 年团队管理经验，管理过 20 人技术团队，熟悉多种前后端开发技术，具有丰富的研发团队管理和项目管理经验。
 
 ## 工作经历
-* （2014~现在） 上海万企明道软件有限公司 · 研发经理
-	> 负责整体 Web 前端技术架构，并领导推进多个业务线模块开发
+* （2014~现在） 上海万企明道软件有限公司 · 技术总监
+  + 管理和优化研发流程，落地代码规范、Code Review 和技术分享等制度
+  + 负责技术选型和更新迭代，保持软件系统技术竞争力
+  + 参与核心业务编码，设计程序架构，参与难点攻关，保证产品质量
+  + 负责整体项目管理，规划版本周期，与其他部门沟通协作，共同推进产品迭代更新
 
 * （2012~2014）上海微创软件有限公司 · MSDN Online Concierge
-	> 微软 Vendor 职位，负责全球范围内 MSDN 订阅用户的支持工作
+  + 微软 Vendor 职位，为全球 MSDN/TechNet 用户提供英文实时客户支持
+  + 作为 Team Coach，负责评估团队工作，帮助能力提升
 
 ## 教育经历
-* （2008~2012）安徽理工大学 · 本科
-	> 测绘工程专业，学习了地图测绘和 GIS 系统等多方面知识
+* （2018~至今）同济大学 · 工业设计工程 · 非全日制硕士
+* （2008~2012）安徽理工大学 · 测绘工程 · 全日制本科
 
-## 技能经验
+## 技术栈
+* 前端：React, TypeScript, Webpack, Gulp, Electron, React Native, Vue, jQuery, Selenium
+* 后端：C#, .Net Core, Node.js, Python, Laravel, Java
+* 数据库：MongoDB, SQL Server, Redis
+* DevOps：Git, Jenkins, Docker, Kubernetes
 
-### 前端开发
-#### 桌面网页端
-* 目前整体技术栈基于 ES6 和 React，样式表使用 Less 编写，采用 BEM 风格
-* 领导了网页渲染框架从 jQuery 字符串拼接 -> doT 字符串模板 -> React 的技术演进，极大提高了生产效率
-* 完成了多页网站的 SPA 化，从头搭建了一系列基础设施，如通过解析后端代码生成 Ajax 请求层、基于 Redux 构建事件和数据层、自行实现单页路由功能
-* 主导构建了项目使用的组件库
-* 使用 Gulp+ Webpack + Babel 配置了复杂的前端构建流程，并按需编写了多个 Gulp插件和 Webpack 插件
-* 持续进行前端方面的技术研究，不断优化性能，提高安全性
-* 使用了大量 HTML5 新技术，包括 Websocket、LocalStorage、Notification 和 Service Worker 等
-* 使用 Selenium 进行自动化测试
+## 项目经验
 
-#### 桌面客户端
-* 通过封装网页版进行跨平台桌面应用的构建，早期使用 node-webkit，后迁移到 Electron
-* 添加了一系列网页版无法实现的功能，如截图、自动更新等
+### 商业项目
 
-#### 移动客户端
-* 整体负责移动端“人事套件”部分。包括表单审批和考勤打卡功能
-* 该部分通过 React Native 使用 TypeScript 编写后嵌入原生应用
+### 个人项目
+* CrossMinder · Meteor 上海黑客马拉松第一名
+* Ping++ C# SDK · Ping++ 线上黑客马拉松创新作品奖
+* ToolBot · BearyChat 线上黑客马拉松第一名
+* 有求必应微信 H5 应用 · 中美黑客马拉松第三名
+* 七牛 Jenkins 插件
 
-#### 移动网页端
-* 将前述 React Native 项目改造成了可通过浏览器访问的站点，具体可见这篇文章：[《基于 React Native 的三端同构应用》](https://www.jianshu.com/p/0153247a848c)
-
-#### 其他前端相关
-* 熟练使用 Vue，已在明道内部的更新工具以及自己的多个项目中使用
-* 积极尝试其他新技术，但同时也坚持单个项目整体技术栈的统一性。在项目中尝试过但最终没有应用于生产的技术有 CoffeeScript, Sass, Stylus 等
-
-### 后端开发
-* 主要后端技术栈是 ASP.NET/ASP.NET Core/C#. 推进了主站项目从 WebForm 到 MVC 架构的演进，目前正在尝试拆分项目，采用 gRPC 进行微服务化。
-* 另有一些站点使用 Node.js, 如文档预览服务（基于 express.js）、移动网页版后端（基于 koa.js）等。
-* 此外还广泛涉猎其他其他 Web 后端语言，包括 Python、PHP、Java 等。
-
-### 数据库
-* 项目初期数据库采用 SQL Server，使用 T-SQL 编写存储过程进行底层操作
-* 后期大部分数据移到了 MongoDB. 能够熟练使用原生语句进行数据库查询
-
-### DevOps
-* 将 Git 引入团队并进行推广，替换了原来的 VSS 进行代码控制
-* 使用 Jenkins 搭建了持续集成系统，完成了服务构建的自动化
-* 使用 Docker 进行服务的镜像打包，并使用 Compose 和 Swarm 进行编排和集群部署
-
-### 团队管理
-* 主导了前端团队从零开始的团队组建
-* 推行代码风格规范，使用 eslint 等工具进行自动化的校验
-* 推动团队文化建设，进行周期性技术分享、Code Review
-
-### 其他
-* 参与了《OKR工作法》翻译工作
-
-## 相关链接
-* Blog [https://www.jianshu.com/u/08e91ec82bed](https://www.jianshu.com/u/08e91ec82bed)
-* Slides [https://slides.com/sinzou](https://slides.com/sinzou)
-* Github [https://github.com/ipy](https://github.com/ipy)
-* SegmentFault [https://segmentfault.com/u/sin](https://segmentfault.com/u/sin)
-* StackOverflow [https://stackoverflow.com/users/1289394/sin](https://stackoverflow.com/users/1289394/sin)
+## 证书认证
+* 2018 · PMP 项目管理专业人士资格认证 
+* 2011 · 软考中级 · 数据库系统工程师
+* 2010 · CET 大学英语考试 · 六级
